@@ -1,13 +1,3 @@
-# Quest Basic Kotlin — Ramiza Kamala Tatsuru (20220140006)
-
-Praktikum Pemrograman Aplikasi Mobile (PAM). 11 sub bab, satu file Kotlin per sub bab,
-setiap sub bab dikerjakan dalam satu commit.
-
-Semua kode dijalankan di **Kotlin Playground** (<https://play.kotlinlang.org>).
-Tiap sub bab di bawah ini memuat file kodenya, tautan playground yang sudah berisi kode itu,
-dan screenshot hasil running-nya (full layar, tanpa crop).
-
----
 
 ## 1. Variables
 
